@@ -1,3 +1,3 @@
-module github.com/hugolify/realestatify-netlify-cms
+module github.com/uncinq/realestatify-netlify-cms
 
-go 1.19
+go 1.21

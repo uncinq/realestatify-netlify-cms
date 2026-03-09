@@ -1,3 +1,7 @@
+> **This is a old module, now get https://github.com/uncinq/realestatify-theme and https://github.com/hugolify/hugolify-admin**
+
+---
+
 # Realestatify Netlify CMS
 
 ## Table of contents
@@ -12,6 +16,7 @@
 
 
 ## Features
+
 - rubrics `create false`
 - pages
 - realestates
@@ -29,25 +34,31 @@
   - seo
 
 ## Screenshot
+
 *soon*
 
 ## Depend repository
-* Hugolify Netlify CMS : [Hugolify template](https://github.com/hugolify/hugolify-netlify-cms)
+
+* Hugolify Netlify CMS : https://github.com/hugolify/hugolify-netlify-cms
 
 ## Live demo
+
 - Front: https://demo.realestatify.io
 
 ## Install
 
 Edit `config/_default/module.yaml` to install the `realestatify-netlify-cms` module with `hugolify-netlify-cms`:
+
 ```yml
 imports:
-  - path: github.com/hugolify/realestatify-netlify-cms
+  - path: github.com/uncinq/realestatify-netlify-cms
   - path: github.com/hugolify/hugolify-netlify-cms
 ```
 
 ## Documentations
-https://github.com/hugolify/hugolify-template/wiki
+
+https://www.hugolify.io
 
 ## License
+
 Hugolify is free for personal or commercial projects (MIT license)

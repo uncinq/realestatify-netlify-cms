@@ -2,9 +2,9 @@
     "name": "realestatify-netlify-cms",
     "version": "1.1.0",
     "homepage": "https://www.realestatify.io",
-    "repository": "https://github.com/hugolify/realestatify-netlify-cms",
+    "repository": "https://github.com/uncinq/realestatify-netlify-cms",
     "bugs": {
-        "url": "https://github.com/hugolify/realestatify-netlify-cms/issues"
+        "url": "https://github.com/uncinq/realestatify-netlify-cms/issues"
     },
     "author": {
         "name": "Sébastien Moulène",
